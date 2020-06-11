@@ -16,6 +16,7 @@ public class TestController
         result.put("test1", "test1");
         result.put("test2", "test2");
         result.put("test3", "test3");
+        System.out.println("good");
         return result;
     }
 }
